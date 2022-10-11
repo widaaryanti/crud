@@ -28,6 +28,9 @@
             <tr>
                 <td>Pekerjaan</td>
                 <td><input type="text" name="pekerjaan" value="<?php echo $u->pekerjaan ?>"></td>
+            <tr>
+                <td>Upload Foto</td>
+                <td><input type="file" name="foto"</td>
             </tr>
             <tr>
                 <td></td>
